@@ -1,6 +1,6 @@
 <h1 align="center">Hi! 👋</h1>
 
-I'm shadowvvf, I like to develop small `but cool` console applications, also like neural networks(like llms, computer vision, ...).
+I'm shadowvvf, I like to develop small but cool console applications, also like neural networks(like llms, computer vision, ...).
 
 ## **🛠 Languages & tools**
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -25,3 +25,19 @@ I'm shadowvvf, I like to develop small `but cool` console applications, also lik
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadowvvf&layout=donut&theme=blue-green)
 
+## **🚀 Projects**
+
+### [coolshell](https://github.com/shadowvvf/cool-console-app)
+Application that adds some more stuff to default console
+
+## **📫 How to reach me**
+
+- telegram: [@shadowvvf](https://t.me/shadowvvf)
+
+## **🌱 Currently Learning**
+
+- Advanced Machine Learning techniques
+- Rust programming language
+- Kubernetes and container orchestration
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=shadowvvf.shadowvvf)
