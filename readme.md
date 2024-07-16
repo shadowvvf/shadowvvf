@@ -21,9 +21,12 @@ I'm shadowvvf, I like to develop small but cool console applications, also like 
 
 ## **📊 Stats**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shadowvvf&show_icons=true&theme=blue-green)
+![](https://github-readme-stats.vercel.app/api?username=shadowvvf&show_icons=true&theme=blue-green)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadowvvf&layout=donut&theme=blue-green)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shadowvvf&layout=donut&theme=blue-green)
+
+![](https://github-profile-trophy.vercel.app/?username=shadowvvf&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 ## **🚀 Projects**
 
@@ -33,11 +36,5 @@ Application that adds some more stuff to default console
 ## **📫 How to reach me**
 
 - telegram: [@shadowvvf](https://t.me/shadowvvf)
-
-## **🌱 Currently Learning**
-
-- Advanced Machine Learning techniques
-- Rust programming language
-- Kubernetes and container orchestration
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=shadowvvf.shadowvvf)
