@@ -23,7 +23,7 @@ I'm shadowvvf, I like to develop small but cool console applications, also like 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shadowvvf&layout=donut&theme=blue-green)
 
-![](https://github-profile-trophy.vercel.app/?username=shadowvvf&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://streak-stats.demolab.com?user=shadowvvf&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
 
 
 ## **🚀 Projects**
