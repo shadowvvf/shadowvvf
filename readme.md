@@ -25,12 +25,6 @@ I'm shadowvvf, I like to develop small but cool console applications, also like 
 
 ![](https://streak-stats.demolab.com?user=shadowvvf&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
 
-
-## **🚀 Projects**
-
-### [coolshell](https://github.com/shadowvvf/cool-console-app)
-Application that adds some more stuff to default console
-
 ## **📫 How to reach me**
 
 - telegram: [@shadowvvf](https://t.me/shadowvvf)
